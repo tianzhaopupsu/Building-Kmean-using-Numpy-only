@@ -1,5 +1,5 @@
 # Building-Kmean-using-Numpy-only
-This a python code to run Kmean to do the classification.
+This is a python code to run Kmean to do the classification.
 
 In gerenal, this code include the elbow analysis by defining the value k.
 
